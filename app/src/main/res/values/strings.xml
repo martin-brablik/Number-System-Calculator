@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Number System Calculator</string>
+    <string name="menu_history">History</string>
+    <string name="label_in_number">Convert number:</string>
+    <string name="label_in_base_src">From system:</string>
+    <string name="label_in_base_dst">To system:</string>
+    <string name="label_out">Result:</string>
+    <string name="btn_convert">Convert</string>
+    <string name="btn_swap">Swap</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_delete">Delete</string>
+    <string name="err_invalidInput">Invalid Input</string>
+
+    <string-array name="dropdown_choices">
+        <item>ASCII</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+</resources>
